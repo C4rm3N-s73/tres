@@ -1,0 +1,11 @@
+Model Information:
+* title:	moon flower
+* source:	https://sketchfab.com/3d-models/moon-flower-9260fd81eeea41cfa3e33ce5f1a80922
+* author:	ostrich (https://sketchfab.com/gohean33)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "moon flower" (https://sketchfab.com/3d-models/moon-flower-9260fd81eeea41cfa3e33ce5f1a80922) by ostrich (https://sketchfab.com/gohean33) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
